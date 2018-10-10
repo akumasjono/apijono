@@ -1,0 +1,14 @@
+{
+"products": [
+{"id":1,"name":"Brown capuchin","category":"Pink"},
+{"id":2,"name":"Downy woodpecker","category":"Khaki"},
+{"id":3,"name":"White-bellied sea eagle","category":"Purple"},
+{"id":4,"name":"Common brushtail possum","category":"Pink"},
+{"id":5,"name":"Eurasian red squirrel","category":"Maroon"},
+{"id":6,"name":"Bengal vulture","category":"Indigo"},
+{"id":7,"name":"Mudskipper (unidentified)","category":"Mauv"},
+{"id":8,"name":"Long-billed corella","category":"Green"},
+{"id":9,"name":"Gaur","category":"Orange"},
+{"id":10,"name":"Black-eyed bulbul","category":"Pink"}
+]
+}
